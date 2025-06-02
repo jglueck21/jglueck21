@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Julian Glück
 
-<!--
-**jglueck21/jglueck21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Developer | 🛡️ Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+### 🧠 Skills & Technologies
+- **Languages:** Java, HTML, CSS, JavaScript, SQL, PHP (basic), Shell
+- **Tools:** Git, VS Code, IntelliJ, MySQL, Linux CLI
+- **Cybersecurity:** Threat models, SIEM, forensic analysis, secure coding, pen testing concepts
+- **Other:** Networking fundamentals, Linux server administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Projects
+- 🎵 **OcWave Music Player** – HTML/CSS/JS music player with IndexedDB playlist storage
+
+*(Visit pinned repositories below for code and demos)*
+
+### 📫 How to reach me
+<!-- Add email or placeholder -->
+📧 your.email@example.com  
+🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+<!-- Optional icons or badge links -->
