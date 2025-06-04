@@ -15,7 +15,7 @@
 
 ### 📫 How to reach me
 <!-- Add email or placeholder -->
-📧 your.email@example.com  
+📧 contact@julianglueck.tech
 🌐 Portfolio: [jglueck21.github.io](https://jglueck21.github.io)
 
 <!-- Optional icons or badge links -->
