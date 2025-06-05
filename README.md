@@ -10,6 +10,7 @@
 
 ### 🔧 Projects
 - 🎵 **OcWave Music Player** – HTML/CSS/JS music player with IndexedDB playlist storage
+- **Other Projects** - More projects will be added soon
 
 *(Visit pinned repositories below for code and demos)*
 
