@@ -14,7 +14,7 @@
 
 *(Visit pinned repositories below for code and demos)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jglueck21&layout=compact&theme=gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jglueck21&layout=compact&theme=tokyonight)
 
 
 ### 📫 How to reach me
