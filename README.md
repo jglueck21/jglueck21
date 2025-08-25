@@ -6,7 +6,7 @@
 
 ### 🧠 Skills & Technologies
 - **Languages:** Java, HTML, CSS, JavaScript, SQL, PHP (basic), Shell scripting
-- **Tools & Platforms:** Git, VS Code, IntelliJ IDEA, MySQL, Linux CLI (Ubuntu, Kali), Wireshark
+- **Tools & Platforms:** Git, VS Code, IntelliJ IDEA, MySQL, Linux CLI (Ubuntu, Kali), Wireshark, Docker, MariaDB, PIHOLE
 - **Cybersecurity:** Threat modeling, SIEM basics, forensic analysis, secure coding, penetration testing concepts
 - **Networking:** TCP/IP, DNS, VPN, firewall configuration, network scanning tools
 - **Other:** Linux server administration, virtualization (VirtualBox, VMware)
