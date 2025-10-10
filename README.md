@@ -14,9 +14,10 @@
 ---
 
 ### 🔧 Projects
-- 🎵 **OcWave Music Player** – A web-based music player using HTML/CSS/JS with IndexedDB for playlist storage  
-<!-- - 🔐 **[Add upcoming TryHackMe write-ups or pentesting reports here]** – Practical hands-on cybersecurity projects and labs (in progress)  -->
+- 🎵 **OcWave Music Player** – A web-based music player using HTML/CSS/JS with IndexedDB for playlist storage
+- **Python Port Scanner** - A Python-based TCP port scanner that detects open ports for network enumeration and cybersecurity learning.
 - **More projects coming soon!**
+<!-- - 🔐 **[Add upcoming TryHackMe write-ups or pentesting reports here]** – Practical hands-on cybersecurity projects and labs (in progress)  -->
 
 *(Check out my pinned repositories below for code samples and demos)*
 
