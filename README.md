@@ -5,7 +5,8 @@
 ---
 
 ### 🧠 Skills & Technologies
-- **Languages:** Java, HTML, CSS, JavaScript, SQL, PHP (basic), Shell scripting
+- **Languages (Strong):** Java, Python, SQL, Shell scripting  
+- **Languages (Intermediate / Familiar):** HTML, CSS, JavaScript, TypeScript, Vue.js, PHP (basic)
 - **Tools & Platforms:** Git, VS Code, IntelliJ IDEA, MySQL, Linux CLI (Ubuntu, Kali, Arch), Wireshark, Docker, MariaDB, PIHOLE
 - **Cybersecurity:** Threat modeling, SIEM basics, forensic analysis, secure coding, penetration testing concepts
 - **Networking:** TCP/IP, DNS, VPN, firewall configuration, network scanning tools
@@ -20,8 +21,6 @@
 <!-- - 🔐 **[Add upcoming TryHackMe write-ups or pentesting reports here]** – Practical hands-on cybersecurity projects and labs (in progress)  -->
 
 *(Check out my pinned repositories below for code samples and demos)*
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jglueck21&layout=compact&theme=tokyonight)
 
 ---
 <!--
