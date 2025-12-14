@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julian Glück
 
-🎓 High School Student | 💻 Aspiring Developer | 🛡️ Cybersecurity Enthusiast
+🎓 High School Student | 🛡️ Cybersecurity & Systems Enthusiast | ⚙️ Automation & Networking
 
 ---
 
