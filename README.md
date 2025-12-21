@@ -15,19 +15,37 @@
 ---
 
 ### 🔧 Projects
-- 🎵 **OcWave Music Player** – A web-based music player using HTML/CSS/JS with IndexedDB for playlist storage
-- **Python Port Scanner** - A Python-based TCP port scanner that detects open ports for network enumeration and cybersecurity learning.
-- **More projects coming soon!**
+#### Frontend / Web Projects
+- 🎵 **OcWave Music Player** – Web-based music player built with HTML, CSS, and JavaScript using IndexedDB for local playlist storage. Demonstrates interactive UI, client-side persistence, and clean frontend coding practices.
+
+- **Shroudfall Web App** – Client-facing project (school assignment; permission pending to publicly showcase). Built with Vue.js, HTML/CSS, and SQLite for local data management. Focused on responsive design, interactive UI components, and offline functionality.
+
+#### Cybersecurity Projects
+- **PHP Web Application Hardening Lab** – Secured a vulnerable PHP web application using password hashing, secure session handling, Content Security Policy (CSP), and WAF deployment.
+
+- **Python Multi-threaded Port Scanner** – TCP port scanner demonstrating network enumeration, service mapping, and concurrent scanning practices in Python.
+
+- **Windows Server Domain Controller & GPO Setup** – Implemented a Windows Server environment with Active Directory, DNS, file shares, and group policies. Integrated Windows 10/11 clients and validated connectivity and policies.
+
+- **Secure Web Lab Exercises (HTL Labs)** – Performed SQL injection, XSS, SSRF, and path traversal attacks on test web applications, then applied mitigations and documented findings.
+
+#### Backend / Distributed Systems / Networking Projects
+- **Warehouse REST API Simulator (JSON/XML)** – Developed a REST API providing warehouse data in JSON/XML with filtering capabilities, demonstrating backend development and data modeling.
+
+- **DataWarehouse gRPC Service** – Implemented a cross-language gRPC service using Protocol Buffers to transfer warehouse data between services efficiently.
+
+- **Warehouse Event Messaging with Apache Kafka** – Built a message-oriented middleware system using Kafka to transmit warehouse data from multiple locations to a central system, showcasing distributed systems and event-driven architecture.
+
+#### Infrastructure / Systems Projects
+- **High Availability Proxmox Virtualization Cluster** – Set up a multi-node Proxmox cluster with live migration and failover testing to demonstrate high availability and virtualization management.
 <!-- - 🔐 **[Add upcoming TryHackMe write-ups or pentesting reports here]** – Practical hands-on cybersecurity projects and labs (in progress)  -->
 
 *(Check out my pinned repositories below for code samples and demos)*
 
 ---
-<!--
 ### 📫 How to reach me  
 📧 contact@julianglueck.tech  
 🌐 Portfolio: [julianglueck.tech](https://julianglueck.tech)  
-🔗 LinkedIn: [linkedin.com/in/julian-glueck](https://linkedin.com/in/julian-glueck) *(Add if ready)*
--->
+🔗 LinkedIn: [linkedin.com/in/julian-glueck](https://linkedin.com/in/julian-glueck)
 ---
 
