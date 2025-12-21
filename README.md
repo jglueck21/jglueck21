@@ -40,6 +40,9 @@
 - **High Availability Proxmox Virtualization Cluster** – Set up a multi-node Proxmox cluster with live migration and failover testing to demonstrate high availability and virtualization management.
 -->
 <!-- - 🔐 **[Add upcoming TryHackMe write-ups or pentesting reports here]** – Practical hands-on cybersecurity projects and labs (in progress)  -->
+
+- **More projects coming soon!**
+
 *(Check out my pinned repositories below for code samples and demos)*
 
 ---
