@@ -15,11 +15,6 @@
 ---
 
 ### 🔧 Projects
-#### Frontend / Web Projects
-- 🎵 **OcWave Music Player** – Web-based music player built with HTML, CSS, and JavaScript using IndexedDB for local playlist storage. Demonstrates interactive UI, client-side persistence, and clean frontend coding practices.
-<!--
-- **Shroudfall Web App** – Client-facing project (school assignment; permission pending to publicly showcase). Built with Vue.js, HTML/CSS, and SQLite for local data management. Focused on responsive design, interactive UI components, and offline functionality.
--->
 #### Cybersecurity Projects
 - **Python Multi-threaded Port Scanner** – TCP port scanner demonstrating network enumeration, service mapping, and concurrent scanning practices in Python.
 <!--
@@ -41,6 +36,11 @@
 -->
 <!-- - 🔐 **[Add upcoming TryHackMe write-ups or pentesting reports here]** – Practical hands-on cybersecurity projects and labs (in progress)  -->
 
+#### Frontend / Web Projects
+- 🎵 **OcWave Music Player** – Web-based music player built with HTML, CSS, and JavaScript using IndexedDB for local playlist storage. Demonstrates interactive UI, client-side persistence, and clean frontend coding practices.
+<!--
+- **Shroudfall Web App** – Client-facing project (school assignment; permission pending to publicly showcase). Built with Vue.js, HTML/CSS, and SQLite for local data management. Focused on responsive design, interactive UI components, and offline functionality.
+-->
 - **More projects coming soon!**
 
 *(Check out my pinned repositories below for code samples and demos)*
