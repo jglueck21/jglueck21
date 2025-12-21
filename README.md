@@ -17,13 +17,13 @@
 ### 🔧 Projects
 #### Frontend / Web Projects
 - 🎵 **OcWave Music Player** – Web-based music player built with HTML, CSS, and JavaScript using IndexedDB for local playlist storage. Demonstrates interactive UI, client-side persistence, and clean frontend coding practices.
-
+<!--
 - **Shroudfall Web App** – Client-facing project (school assignment; permission pending to publicly showcase). Built with Vue.js, HTML/CSS, and SQLite for local data management. Focused on responsive design, interactive UI components, and offline functionality.
-
+-->
 #### Cybersecurity Projects
-- **PHP Web Application Hardening Lab** – Secured a vulnerable PHP web application using password hashing, secure session handling, Content Security Policy (CSP), and WAF deployment.
-
 - **Python Multi-threaded Port Scanner** – TCP port scanner demonstrating network enumeration, service mapping, and concurrent scanning practices in Python.
+<!--
+- **PHP Web Application Hardening Lab** – Secured a vulnerable PHP web application using password hashing, secure session handling, Content Security Policy (CSP), and WAF deployment.
 
 - **Windows Server Domain Controller & GPO Setup** – Implemented a Windows Server environment with Active Directory, DNS, file shares, and group policies. Integrated Windows 10/11 clients and validated connectivity and policies.
 
@@ -38,14 +38,16 @@
 
 #### Infrastructure / Systems Projects
 - **High Availability Proxmox Virtualization Cluster** – Set up a multi-node Proxmox cluster with live migration and failover testing to demonstrate high availability and virtualization management.
+-->
 <!-- - 🔐 **[Add upcoming TryHackMe write-ups or pentesting reports here]** – Practical hands-on cybersecurity projects and labs (in progress)  -->
-
 *(Check out my pinned repositories below for code samples and demos)*
 
 ---
+<!--
 ### 📫 How to reach me  
 📧 contact@julianglueck.tech  
 🌐 Portfolio: [julianglueck.tech](https://julianglueck.tech)  
 🔗 LinkedIn: [linkedin.com/in/julian-glueck](https://linkedin.com/in/julian-glueck)
+-->
 ---
 
