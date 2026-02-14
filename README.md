@@ -31,6 +31,10 @@
 
 - **Warehouse Event Messaging with Apache Kafka** – Built a message-oriented middleware system using Kafka to transmit warehouse data from multiple locations to a central system, showcasing distributed systems and event-driven architecture.
 
+- **Data Warehouse ORM with Spring Boot & JPA** – Built a Java-based data warehouse application using Spring Boot and JPA to implement Object Relational Mapping (ORM) with MySQL. Designed warehouse and product entities with relationships, implemented CRUD operations via Spring Data, extended repositories with custom queries, and integrated an LLM (e.g., Ollama / Google Gemini) to generate sales forecasts from historical data.
+
+- **Document-Oriented Middleware with MongoDB** – Developed a decentralized warehouse middleware using Spring Boot and MongoDB to store and manage warehouse data in a central NoSQL repository. Designed a flexible JSON document structure, implemented full REST APIs (CRUD for warehouses and products), performed Mongo Shell queries for analytical use cases, and integrated an LLM (e.g., Ollama / Google Gemini) to generate AI-based reports and insights from warehouse data.
+
 #### Infrastructure / Systems Projects
 - **High Availability Proxmox Virtualization Cluster** – Set up a multi-node Proxmox cluster with live migration and failover testing to demonstrate high availability and virtualization management.
 -->
