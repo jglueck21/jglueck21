@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julian Glück
 
-🎓 High School Student | 🛡️ Cybersecurity & Systems Enthusiast | ⚙️ Automation & Networking
+🎓 Higher Technical College (HTL) Student | 🛡️ Cybersecurity & Systems Enthusiast | ⚙️ Automation & Networking
 
 ---
 
