@@ -54,7 +54,7 @@
 ### 📫 How to reach me  
 📧 contact@julianglueck.tech  
 🌐 Portfolio: [julianglueck.tech](https://julianglueck.tech)  
-🔗 LinkedIn: [linkedin.com/in/julian-glueck](https://linkedin.com/in/julian-glueck)
+🔗 LinkedIn: [linkedin.com/in/julian-glueck](https://www.linkedin.com/in/julian-glueck-66059a369/)
 
 ---
 
