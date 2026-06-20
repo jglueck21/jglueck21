@@ -50,11 +50,11 @@
 *(Check out my pinned repositories below for code samples and demos)*
 
 ---
-<!--
+
 ### 📫 How to reach me  
 📧 contact@julianglueck.tech  
 🌐 Portfolio: [julianglueck.tech](https://julianglueck.tech)  
 🔗 LinkedIn: [linkedin.com/in/julian-glueck](https://linkedin.com/in/julian-glueck)
--->
+
 ---
 
